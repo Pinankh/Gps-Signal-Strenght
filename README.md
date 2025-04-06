@@ -82,3 +82,11 @@ Location accuracy: You can adjust the location accuracy using requestLocationUpd
 Network type: The appropriate signal strength value to use depends on the network type. For example, if you're using a GSM network, you should use getGsm().
 Signal strength units: Be aware of the units used for different network types.
 Error handling: Implement error handling to handle cases where location updates are not available or if there are issues with obtaining signal strength information.
+
+<!-- CONTACT -->
+## Contact
+
+Pinankh Patel - pinankhpatel@hotmail.com
+
+Linkedin: https://www.linkedin.com/in/pinankh-patel-19400350/
+
